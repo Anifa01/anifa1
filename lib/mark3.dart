@@ -7,7 +7,7 @@
   // func();
   // func=print;
   // func('Hello');
-}
+//}
 // //1
 
 // void hello(){
